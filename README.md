@@ -1,5 +1,5 @@
 # Lyrics to Melody
-MELON: Create music with your own lyrics!
+### MELON: Create music with your own lyrics!
 ![image](images/homepage.png)
 
 ### Contributors:
