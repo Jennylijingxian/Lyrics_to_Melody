@@ -18,7 +18,7 @@ We want to build an easy-to-use melody generation platform to help those intimid
 
 ## Workflow
 ### Step1: Lyrics searchring
-![image](images/customize.png)
+![image](images/lyrics.png)
 Coming up with your own lyrics is the first step towards music creation here at Melon. If you already have ideas in mind, you can directly put your lyrics in the second textbox and click "Confirm your lyrics" and "Next Step". Otherwise, we provide you some inspirations in the "You May Want to Search" section from where you can click on and get lyrics in the first textbox. You can also search lyrics directly at the top. 
 
 ### Step2: Customize your style
