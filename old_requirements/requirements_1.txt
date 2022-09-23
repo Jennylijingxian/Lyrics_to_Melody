@@ -70,7 +70,7 @@ pickleshare==0.7.5
 pretty-midi==0.2.8
 prometheus-client==0.7.1
 prompt-toolkit==3.0.4
-protobuf==3.11.3
+protobuf==3.18.3
 ptyprocess==0.6.0
 py-midi==2.0.1
 pyasn1==0.4.8
